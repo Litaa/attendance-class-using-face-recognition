@@ -29,15 +29,11 @@ ___
   - [ ] There is no right answer
 ___
 
-5. Given the 3x3 matrix below :
-	![3x3 matrix](kuis.JPG)
-
-	
-Find the binary value and then convert into decimal value to calculate new central value. What is the   result?
-	- [ ] 189
-	- [ ] 179
-	- [ ] 169
-	- [ ] 168
+5. Based on matrix "kuis.JPG" image, find the binary value and then convert into decimal value to calculate new central value. What is the  result?
+  - [ ] 189
+  - [ ] 179
+  - [ ] 169
+  - [ ] 168
 ___
 
 6. By rescaling the input image, we can resize a larger face into the smaller one and making it detectable by the algorithm. Say I want to resize my image by 6%, what does the correct parameter for the code?
